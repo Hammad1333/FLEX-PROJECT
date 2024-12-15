@@ -1,0 +1,32 @@
+1
+Samia Mujahid
+ICT
+123
+2
+Hassan Ahmad
+PF Lab
+123
+3
+Rizwan ul Haq
+Programming Fundamentals
+123
+4
+Arfan Shahzad
+Calculus
+123
+5
+Rimsha Bashir
+Applied Physics
+123
+6
+Hussnain
+FE Lab
+123
+7
+Hafiz Hassan
+Islamic Studies
+123
+8
+Khalid Mehmood
+Functional English
+123

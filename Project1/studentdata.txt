@@ -1,0 +1,344 @@
+1
+Hammad
+1
+ICT
+4 5 
+56 78 56 
+34 44 
+67 2.5
+PF Lab
+7 6 
+45 56 43 
+23 43 
+76 2.5
+Programming Fundamentals
+8 7 
+76 78 89 
+45 45 
+89 3.5
+Calculus
+7 8 
+76 78 89 
+45 34 
+78 3
+Applied Physics
+8 9 
+78 89 9 
+45 49 
+99 4
+FE Lab
+8 7 
+56 76 45 
+23 34 
+76 2.5
+Islamic Studies
+7 8 
+56 76 78 
+34 45 
+89 3.5
+Functional English
+7 8 
+67 78 9 
+34 45 
+89 3.5
+3
+Saad
+3
+ICT
+8 7 
+76 78 76 
+34 23 
+87 3
+PF Lab
+7 8 
+56 76 78 
+23 34 
+87 3
+Programming Fundamentals
+8 7 
+76 78 89 
+45 45 
+89 3.5
+Calculus
+7 8 
+76 78 89 
+45 34 
+78 3
+Applied Physics
+8 9 
+78 89 9 
+45 49 
+99 4
+FE Lab
+8 7 
+56 76 45 
+23 34 
+76 2.5
+Islamic Studies
+7 8 
+56 76 78 
+34 45 
+89 3.5
+Functional English
+7 8 
+67 78 9 
+34 45 
+89 3.5
+4
+Abdur Rehman
+4
+ICT
+8 7 
+76 78 76 
+34 23 
+87 3
+PF Lab
+7 8 
+56 76 78 
+23 34 
+87 3
+Programming Fundamentals
+8 7 
+76 78 89 
+45 45 
+89 3.5
+Calculus
+7 8 
+76 78 89 
+45 34 
+78 3
+Applied Physics
+8 9 
+78 89 9 
+45 49 
+99 4
+FE Lab
+8 7 
+56 76 45 
+23 34 
+76 2.5
+Islamic Studies
+7 8 
+56 76 78 
+34 45 
+89 3.5
+Functional English
+7 8 
+67 78 9 
+34 45 
+89 3.5
+5
+Ahmad
+5
+ICT
+8 7 
+76 78 76 
+34 23 
+87 3
+PF Lab
+7 8 
+56 76 78 
+23 34 
+87 3
+Programming Fundamentals
+8 7 
+76 78 89 
+45 45 
+89 3.5
+Calculus
+7 8 
+76 78 89 
+45 34 
+78 3
+Applied Physics
+8 9 
+78 89 9 
+45 49 
+99 4
+FE Lab
+8 7 
+56 76 45 
+23 34 
+76 2.5
+Islamic Studies
+7 8 
+56 76 78 
+34 45 
+89 3.5
+Functional English
+7 8 
+67 78 9 
+34 45 
+89 3.5
+6
+Bilal
+6
+ICT
+8 7 
+76 78 76 
+34 23 
+87 3
+PF Lab
+7 8 
+56 76 78 
+23 34 
+87 3
+Programming Fundamentals
+8 7 
+76 78 89 
+45 45 
+89 3.5
+Calculus
+7 8 
+76 78 89 
+45 34 
+78 3
+Applied Physics
+8 9 
+78 89 9 
+45 49 
+99 4
+FE Lab
+8 7 
+56 76 45 
+23 34 
+76 2.5
+Islamic Studies
+7 8 
+56 76 78 
+34 45 
+89 3.5
+Functional English
+7 8 
+67 78 9 
+34 45 
+89 3.5
+8
+Anass
+8
+ICT
+8 7 
+76 78 76 
+34 23 
+87 3
+PF Lab
+7 8 
+56 76 78 
+23 34 
+87 3
+Programming Fundamentals
+8 7 
+76 78 89 
+45 45 
+89 3.5
+Calculus
+7 8 
+76 78 89 
+45 34 
+78 3
+Applied Physics
+8 9 
+78 89 9 
+45 49 
+99 4
+FE Lab
+8 7 
+56 76 45 
+23 34 
+76 2.5
+Islamic Studies
+7 8 
+56 76 78 
+34 45 
+89 3.5
+Functional English
+7 8 
+67 78 9 
+34 45 
+89 3.5
+9
+Waleed
+9
+ICT
+8 7 
+76 78 76 
+34 23 
+87 3
+PF Lab
+7 8 
+56 76 78 
+23 34 
+87 3
+Programming Fundamentals
+8 7 
+76 78 89 
+45 45 
+89 3.5
+Calculus
+7 8 
+76 78 89 
+45 34 
+78 3
+Applied Physics
+8 9 
+78 89 9 
+45 49 
+99 4
+FE Lab
+8 7 
+56 76 45 
+23 34 
+76 2.5
+Islamic Studies
+7 8 
+56 76 78 
+34 45 
+89 3.5
+Functional English
+7 8 
+67 78 9 
+34 45 
+89 3.5
+10
+Ali
+10
+ICT
+8 7 
+76 78 76 
+34 23 
+87 3
+PF Lab
+7 8 
+56 76 78 
+23 34 
+87 3
+Programming Fundamentals
+8 7 
+76 78 89 
+45 45 
+89 3.5
+Calculus
+7 8 
+76 78 89 
+45 34 
+78 3
+Applied Physics
+8 9 
+78 89 9 
+45 49 
+99 4
+FE Lab
+8 7 
+56 76 45 
+23 34 
+76 2.5
+Islamic Studies
+7 8 
+56 76 78 
+34 45 
+89 3.5
+Functional English
+7 8 
+67 78 9 
+34 45 
+89 3.5
